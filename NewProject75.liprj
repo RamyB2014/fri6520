@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="812b21a9-7c60-47a8-bedb-70c3768249cc">
+    <ProjectFile Source="Target/Flare-new.flprj" Target="Target/Flare-new.flprj" />
+</LingoProject>
